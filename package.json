@@ -1,0 +1,23 @@
+{
+  "name": "my-spotify-top50",
+  "version": "1.0.0",
+  "description": "As a part of the [Visual Analytics course](http://johnguerra.co/classes/visual_analytics_fall_2017) at Universidad de los Andes, I have taken my top 50 artists from Spotify using its [API endpoint](https://developer.spotify.com/web-api/get-users-top-artists-and-tracks/)  and I made a graph out of it connecting artists that share at least one music genre. Later, I also took advantage of  [related artists endpoint](https://developer.spotify.com/web-api/get-related-artists/) to make further connections.",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rerissondaniel/my-spotify-top50.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rerissondaniel/my-spotify-top50/issues"
+  },
+  "homepage": "https://github.com/rerissondaniel/my-spotify-top50#readme"
+}
